@@ -1,4 +1,4 @@
-__________________________________________________<p align="Center">![logo](HybridGenerativeModel_Slogo.png)</p>__________________________________________________
+__________________________________________________<p align="Center">![logo](https://github.com/AliBavarchee/LatentBoostClassifier/blob/main/HybridGenerativeModel_Slogo.png)</p>__________________________________________________
 ---
 # LatentBoostClassifier: Hybrid Generative Model: CVAE + CGAN + RF
 
@@ -206,7 +206,7 @@ Feel free to fork, improve, and submit a pull request! For major changes, please
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 ---
 
-=============================================<p align="Center">![logoS.png](https://github.com/AliBavarchee/AliBavarchee/blob/main/logo.png)</p>=============================================
+=============================================<p align="Center">![ALI BAVARCHIEE](https://github.com/AliBavarchee/AliBavarchee/blob/main/logo.png)</p>=============================================
 =====
 | https://github.com/AliBavarchee/ |
 ----
