@@ -1,5 +1,24 @@
 __________________________________________________<p align="Center">![logo](https://github.com/AliBavarchee/LatentBoostClassifier/blob/main/HybridGenerativeModel_Slogo.png)</p>__________________________________________________
 ---
+__     ___  ______  ____ __  __ ______
+       ||    // \\ | || | ||    ||\ || | || |
+       ||    ||=||   ||   ||==  ||\\||   ||  
+       ||__| || ||   ||   ||___ || \||   ||    
+	   ____    ___     ___    __  ______
+          || ))  // \\   // \\  (( \ | || |
+          ||=)  ((   )) ((   ))  \\    ||  
+          ||_))  \\_//   \\_//  \_))   ||
+		  		  __                         
+           /   |  _   _  _ . (_ .  _  _ 
+           \__ | (_| _) _) | |  | (- |
+             __       ___        ____   
+            /_ |     |__ \      |___ \  
+             | |        ) |       __) | 
+             | |       / /       |__ <  
+             | |  __  / /_   __  ___) | 
+             |_| (__)|____| (__)|____/
+---
+---
 # LatentBoostClassifier: Hybrid Generative Model: CVAE + CGAN + RF
 
 This repository implements a **hybrid generative model+** combining a Conditional Variational Autoencoder (CVAE), a Conditional Generative Adversarial Network (CGAN), and a Random Forest Classifier (RFC). The hybrid model is designed for complex classification tasks by leveraging latent feature extraction (CVAE), synthetic data generation (CGAN), and robust classification (RFC).
