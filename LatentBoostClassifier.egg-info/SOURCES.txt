@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+LatentBoostClassifier/__init__.py
+LatentBoostClassifier/model.py
+LatentBoostClassifier/train.py
+LatentBoostClassifier/visualize.py
+LatentBoostClassifier.egg-info/PKG-INFO
+LatentBoostClassifier.egg-info/SOURCES.txt
+LatentBoostClassifier.egg-info/dependency_links.txt
+LatentBoostClassifier.egg-info/requires.txt
+LatentBoostClassifier.egg-info/top_level.txt
+tests/test_model.py
+tests/test_train.py
+tests/test_visualize.py
