@@ -1,7 +1,7 @@
 __________________________________________________<p align="Center">![logo](https://github.com/AliBavarchee/LatentBoostClassifier/blob/main/HybridGenerativeModel_Slogo.png)</p>__________________________________________________
 ---
 
-<p align="Center">__     ___  ______  ____ __  __ ______
+-<p align="Center">__     ___  ______  ____ __  __ ______
        ||    // \\ | || | ||    ||\ || | || |
        ||    ||=||   ||   ||==  ||\\||   ||  
        ||__| || ||   ||   ||___ || \||   ||    
