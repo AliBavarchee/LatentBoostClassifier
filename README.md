@@ -1,5 +1,6 @@
 __________________________________________________<p align="Center">![logo](https://github.com/AliBavarchee/LatentBoostClassifier/blob/main/HybridGenerativeModel_Slogo.png)</p>__________________________________________________
 ---
+_<p align="Center">
 __     ___  ______  ____ __  __ ______
        ||    // \\ | || | ||    ||\ || | || |
        ||    ||=||   ||   ||==  ||\\||   ||  
@@ -17,6 +18,7 @@ __     ___  ______  ____ __  __ ______
              | |       / /       |__ <  
              | |  __  / /_   __  ___) | 
              |_| (__)|____| (__)|____/
+</p>
 ---
 ---
 # LatentBoostClassifier: Hybrid Generative Model: CVAE + CGAN + RF
