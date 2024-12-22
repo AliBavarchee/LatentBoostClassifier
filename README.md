@@ -22,7 +22,7 @@ __     ___  ______  ____ __  __ ______
 # LatentBoostClassifier: Hybrid Generative Model: CVAE + CGAN + RF
 ---
 ---
-|DOI: 10.13140/RG.2.2.11351.79522|
+| http://dx.doi.org/10.13140/RG.2.2.11351.79522 |
 ---
 
 This repository implements a **hybrid generative model+** combining a Conditional Variational Autoencoder (CVAE), a Conditional Generative Adversarial Network (CGAN), and a Random Forest Classifier (RFC). The hybrid model is designed for complex classification tasks by leveraging latent feature extraction (CVAE), synthetic data generation (CGAN), and robust classification (RFC).
