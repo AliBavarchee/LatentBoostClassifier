@@ -108,7 +108,7 @@ visualize_hybrid_model(best_cvae, best_cgan_generator, best_rf_model, X_test, Y_
 Train the CVAE, CGAN, and Random Forest models using your dataset:
 ```python
 # Import the training function
-from hybrid_model import parallel_train
+from LatentBoostClassifier import parallel_train
 
 # Define training and testing datasets
 X_train, Y_train = ...  # Load or preprocess your training data
@@ -123,7 +123,7 @@ best_cvae, best_cgan_generator, best_rf_model = parallel_train(X_train, Y_train,
 ### Visualizing Results
 Evaluate and visualize the performance of the hybrid model:
 ```python
-from hybrid_model import visualize_hybrid_model
+from LatentBoostClassifier import visualize_hybrid_model
 
 # Visualize results
 visualize_hybrid_model(best_cvae, best_cgan_generator, best_rf_model, X_test, Y_test, X_train, Y_train)
