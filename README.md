@@ -1,4 +1,4 @@
-__________________________________________________<p align="Center">![logo](https://github.com/AliBavarchee/LatentBoostClassifier/blob/main/HybridGenerativeModel_Slogo.png)</p>__________________________________________________
+__________________________________________________<p align="Center">![logo](https://teal-broad-gecko-650.mypinata.cloud/ipfs/bafkreicmwv4ztny6ax7hg2svzln7ojfy6pu43hzqubefpjlz7x2wrzzcfy)</p>__________________________________________________
 ---
 __     ___  ______  ____ __  __ ______
        ||    // \\ | || | ||    ||\ || | || |
